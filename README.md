@@ -3,6 +3,7 @@ BasicNeeds System for RedM Extended
 
 ## Requirements
 - [RedM Extended](https://github.com/ThymonA/redm_extended)
+- [RDX Status]()
 
 ## How to install
 * Download the lastest version of RDX BasicNeeds
