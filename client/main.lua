@@ -4,7 +4,7 @@ local IsAnimated = false
 
 Citizen.CreateThread(function()
 	while RDX == nil do
-		TriggerEvent('rdx:getSharedObject', function(obj) rdx = obj end)
+		TriggerEvent('rdx:getSharedObject', function(obj) RDX = obj end)
 		Citizen.Wait(0)
 	end
 end)
